@@ -6,7 +6,7 @@
 2. Explain the main actions involved in RESTful architectures
 3. Describe the relationship between REST and HTTP
 
-## Introduction
+#  # Introduction
 
 In 2000, Roy Thomas Fielding was frustrated by the hap-hazard different ways web applications were using the HTTP standard. Specifically he was frustrated with how URLs and their corresponding HTTP Verbs were used differently for every single application. So, in his PhD dissertation he came up with REST or REpresentational State Transfer as a standard way web apps should structure their URLs. It also suggested a few other things, but we focus mostly on how it changed URLs. Fielding also noticed the rise in web applications communicating with each other. Using this standard way of forming URLs to access resources, Fielding hoped that inter-application communication would get much easier.
 
